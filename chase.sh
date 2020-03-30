@@ -24,7 +24,7 @@ echo  "Hello ! Hope you will find some good programs and bounties too."
 #Google Dorks
 
 $BROWSER https://www.google.com/search?q=inurl:/.well-known/security+ext:txt
-$BROWSER https://www.google.com/search?q=site:inurl:reporting-security-issues
+$BROWSER https://www.google.com/search?q=inurl:reporting-security-issues
 $BROWSER https://www.google.com/search?q="submit+vulnerability+report"
 $BROWSER https://www.google.com/search?q=site:help.*.*+inurl:bounty
 $BROWSER https://www.google.com/search?q=inurl:/security+ext:txt+"contact"
