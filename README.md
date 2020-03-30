@@ -20,4 +20,4 @@ Linux
 
 Dorks are source from various blogs, websites, tweets, etc.
 
-Thanks them all !
+Thanks to all !!!!
