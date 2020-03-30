@@ -19,7 +19,7 @@ BROWSER="xdg-open" #Open-Browser
 
 DELAY=10
 
-echo  "Hello ! Hope you will find a good program and bounties too.
+echo  "Hello ! Hope you will find some good programs and bounties too."
 
 #Google Dorks
 
