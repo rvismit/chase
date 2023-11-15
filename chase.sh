@@ -44,3 +44,11 @@ $BROWSER https://www.google.com/search?q=inurl:/security ext:txt+"contact"
 $BROWSER https://www.google.com/search?q=site:*.*.nl intext:responsible+disclosure+reward
 $BROWSER https://www.google.com/search?q=site:responsibledisclosure.com
 $BROWSER https://www.google.com/search?q=inurl+:+/+security
+
+sleep $DELAY
+
+$BROWSER https://www.google.com/search?q=intext:+we+offer+a+bounty
+$BROWSER https://www.google.com/search?q="cms"+bug+bounty
+$BROWSER https://www.google.com/search?q="security+vulnerability"+"report"
+$BROWSER https://www.google.com/search?q=site:*.edu+intext:security+report+vulnerability
+$BROWSER https://www.google.com/search?q="vulnerability+reporting+policy"
